@@ -11,6 +11,14 @@
     * [Results](#Results)
 <!-- /code_chunk_output -->
 
+# CI-CD Pipeline with Jenkins
+
+Hi, I'm **Shashangka Upadhyaya** 👋  
+I'm a software engineer passionate about DevOps, automation, and building scalable cloud-native solutions.
+
+This project demonstrates a complete **CI/CD pipeline using Jenkins**, designed to automate the build, test, and deployment process.
+
+Feel free to explore, clone, and contribute!
 
 
 ## Introduction:
